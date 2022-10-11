@@ -1,5 +1,5 @@
-int main() {
-sout("Hello world");
-this is sparta
-return 1;
+public static void main(String[] args) {
+	sout("Hello world");
+	sout("this is sparta");
+	return 1;
 }
